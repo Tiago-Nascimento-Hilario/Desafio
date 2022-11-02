@@ -1,6 +1,5 @@
 package com.tiago.desafioTecnico;
 
-import java.util.Date;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
